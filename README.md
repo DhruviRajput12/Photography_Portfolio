@@ -14,7 +14,7 @@ Basic knowledge of HTML, CSS, and JavaScript.
 Clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/Photography_Portfolio.git
+git clone https://github.com/DhruviRajput12/Photography_Portfolio.git
 Navigate to the project directory:
 
 cd Photography_Portfolio
